@@ -1,0 +1,6 @@
+- sort (selection , bubble)
+- reverse string
+- sum of prime number till N
+- sum of odd number till N
+- sum all the digits from a number . ex. if number is 432 , sum should be 4+3+2
+
